@@ -1,7 +1,5 @@
 # Geuss the number game 
-score 
-limit 
-out 
+
 
 The task is to write a Java program in which a user will get number of trials to guess a randomly generated number between 0 to 20. 
 
